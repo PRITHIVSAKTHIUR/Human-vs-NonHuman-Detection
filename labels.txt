@@ -1,0 +1,4 @@
+    labels = {
+        "0": "Human 𖨆", 
+        "1": "Non Human メ"
+    }
